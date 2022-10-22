@@ -1,11 +1,12 @@
-Ruby version: 3.1.2
+<h1><h1>
 
-Works on windows 10, ubuntu 22.04.1
+>Ruby version: 3.1.2
 
-Language: RU
+>Works on windows 10, ubuntu 22.04.1
 
+>Language: RU
 
-Run the following
+To run just type following:
 
 `
 ruby ball.rb
