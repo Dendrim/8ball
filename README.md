@@ -1,12 +1,14 @@
+<h1>Description</h1>
+
 >Target Ruby version: 3.1.2
 
->Works on windows 10, ubuntu 22.04.1
-
 >Language: RU
-----------
 
-To run just type following:
+---
+8ball greets you, then gives you a response to your desired question.
 
-`
+To start just run:
+
+```
 ruby ball.rb
-`
+```
