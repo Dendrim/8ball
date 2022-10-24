@@ -5,5 +5,5 @@
 To start just run:
 
 ```
-ruby ball.rb
+ruby 8ball.rb
 ```
